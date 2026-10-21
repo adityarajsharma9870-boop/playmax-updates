@@ -1,0 +1,16 @@
+{
+  "latestVersion": "1.2.0",
+  "latestBuildNumber": 3,
+  "minSupportedVersion": "1.2.0",
+  "forceUpdate": true,
+  "title": "PlayMax ⚡ Naya Update Available (v1.2.0)",
+  "message": "Naya version ready hai! Purane version ki streaming band kar di gayi hai, kripya aage dekhne ke liye abhi update karein.",
+  "releaseNotes": [
+    "🚀 Sabhi live channels ultra-fast buffer free streaming",
+    "⚡ Star Sports 1 & 2 HD 24x7 lag-free updates",
+    "🎬 Cinema aur MovieBox naya catalog added",
+    "🛡️ Security and stability improvements"
+  ],
+  "apkUrl": "https://github.com/adityarajsharma9870-boop/playmax-updates/releases/latest/download/PlayMax.apk",
+  "releasedAt": "2026-10-21"
+}
