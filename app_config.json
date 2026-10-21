@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T19:12:19.476Z",
+  "lastUpdated": "2026-10-21T19:26:08.434Z",
   "brand": {
     "logoUrl": "",
     "brandName": "PLAYMAX",
@@ -9,15 +9,15 @@
   "banners": [
     {
       "id": "slide-cricket",
-      "tag": "🏏 LIVE NOW • 1080p 60FPS",
+      "tag": "🏏 LIVE NOW ",
       "tagColor": "#ef4444",
-      "title": "STAR SPORTS 1 HINDI HD",
-      "subtitle": "IND vs WI 2nd T20I Live Match • Hindi Commentary",
+      "title": "IND vs NZ",
+      "subtitle": "IND vs NZ 1nd T20I Live Match • Hindi Commentary",
       "metaInfo": "LIVE • Sports • Hindi • Full HD",
       "highlightText": "IND vs WI Live Match Streaming Now",
       "accentColor": "#38bdf8",
       "bgGradient": "#0b172a",
-      "imageUrl": "https://raw.githubusercontent.com/adityarajsharma9870-boop/playmax-updates/main/assets/banners/banner_1792608716303.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/adityarajsharma9870-boop/playmax-updates/main/assets/banners/banner_1792610765592.jpg",
       "channelId": "bc-star-sports-hindi",
       "isLive": true,
       "isExplicitLive": true,
