@@ -1,0 +1,98 @@
+{
+  "_comment": "PlayMax Safe Dynamic Online Config (100% Free - Zero Billing Risk)",
+  "lastUpdated": "2026-10-21T21:00:00Z",
+  "brand": {
+    "logoUrl": "",
+    "brandName": "PLAYMAX",
+    "badgeText": "PRO",
+    "announcement": "Welcome to PlayMax Live TV & OTT"
+  },
+  "banners": [
+    {
+      "id": "slide-cricket",
+      "tag": "🏏 LIVE NOW • 1080p 60FPS",
+      "tagColor": "#ef4444",
+      "title": "STAR SPORTS 1 HINDI HD",
+      "subtitle": "IND vs WI 2nd T20I Live Match • Hindi Commentary",
+      "metaInfo": "LIVE • Sports • Hindi • Full HD",
+      "highlightText": "IND vs WI Live Match Streaming Now",
+      "accentColor": "#38bdf8",
+      "bgGradient": "#0b172a",
+      "imageUrl": "",
+      "channelId": "bc-star-sports-hindi",
+      "isLive": true,
+      "isExplicitLive": true,
+      "badges": ["1080p 60FPS", "Hindi Audio", "Active Live Feed"]
+    },
+    {
+      "id": "slide-biggboss-hindi",
+      "tag": "🔥 SALMAN KHAN LIVE",
+      "tagColor": "#facc15",
+      "title": "BIGG BOSS HINDI",
+      "subtitle": "Season 20 • Hosted by Salman Khan",
+      "metaInfo": "2026 • Reality TV • Hindi • 32 Episodes",
+      "highlightText": "Stream All 32 Episodes in Tadka",
+      "accentColor": "#f59e0b",
+      "bgGradient": "#200902",
+      "imageUrl": "http://mena-img-cdn-lb.aws.playco.com/ev-indiacast-avod/AVODBIGBOSSY2006S20E001HI/AVODBIGBOSSY2006S20E001HI-hero-main-v2-en.jpg",
+      "isTadka": true,
+      "badges": ["Salman Khan", "32 Episodes", "1080p Full HD"]
+    },
+    {
+      "id": "slide-biggboss-malayalam",
+      "tag": "🌟 MOHANLAL SPECIAL",
+      "tagColor": "#f59e0b",
+      "title": "BIGG BOSS MALAYALAM",
+      "subtitle": "Season 8 • Hosted by Mohanlal",
+      "metaInfo": "2026 • Reality TV • Malayalam • 99 Episodes",
+      "highlightText": "Stream All 99 Episodes in Tadka",
+      "accentColor": "#f59e0b",
+      "bgGradient": "#181404",
+      "imageUrl": "https://mena-img-cdn-lb.aws.playco.com/ev-ingest-jiostar-avod/AVODBIGGBOSSMMLY2018S08E001ML/AVODBIGGBOSSMMLY2018S08E001ML-hero-v2-en.jpg",
+      "isTadka": true,
+      "badges": ["Season 8", "Mohanlal", "99 Episodes"]
+    },
+    {
+      "id": "slide-bloody-daddy",
+      "tag": "🎬 JIO CINEMA HIT",
+      "tagColor": "#ef4444",
+      "title": "BLOODY DADDY",
+      "subtitle": "Shahid Kapoor • Jio Studios Blockbuster",
+      "metaInfo": "2024 • Action Thriller • Full Movie",
+      "highlightText": "Watch Full Movie in 1080p Ultra HD",
+      "accentColor": "#ef4444",
+      "bgGradient": "#1a0508",
+      "imageUrl": "http://mena-img-cdn-lb.aws.playco.com/ev-ingest-jiostar-avod/BLOODYDADDYY2023MHI/BLOODYDADDYY2023MHI-hero-main-v2-en.jpg",
+      "isTadka": true,
+      "badges": ["Shahid Kapoor", "Action Thriller", "Full Movie"]
+    },
+    {
+      "id": "slide-tadka",
+      "tag": "⚡ 2-MINUTE MICROSHOWS",
+      "tagColor": "#ff4500",
+      "title": "PROXY WAR: THE BILLIONAIRE",
+      "subtitle": "52 Rapid Episodes • Revenge & Romance",
+      "metaInfo": "2026 • Hindi Drama",
+      "highlightText": "Watch All 52 Episodes Free",
+      "accentColor": "#ff4500",
+      "bgGradient": "#260a05",
+      "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&auto=format&fit=crop&q=80",
+      "isTadka": true,
+      "badges": ["2 Min/Episode", "Hindi Drama", "Binge Now"]
+    },
+    {
+      "id": "slide-willow",
+      "tag": "🏆 24/7 BORDERLESS CRICKET",
+      "tagColor": "#10b981",
+      "title": "WILLOW CRICKET HD",
+      "subtitle": "ICC Tournaments, Ashes & BBL Live Action",
+      "metaInfo": "LIVE • 1080p • English",
+      "highlightText": "24x7 Live Cricket",
+      "accentColor": "#10b981",
+      "bgGradient": "#052014",
+      "imageUrl": "https://images.unsplash.com/photo-1531415074868-036b1c57e359?w=1200&auto=format&fit=crop&q=80",
+      "channelId": "bc-willow-cricket",
+      "badges": ["Direct HLS", "English", "HD Crisp"]
+    }
+  ]
+}
