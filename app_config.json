@@ -1,6 +1,5 @@
 {
-  "_comment": "PlayMax Safe Dynamic Online Config (100% Free - Zero Billing Risk)",
-  "lastUpdated": "2026-10-21T21:00:00Z",
+  "lastUpdated": "2026-10-21T17:33:49.292Z",
   "brand": {
     "logoUrl": "",
     "brandName": "PLAYMAX",
@@ -22,7 +21,11 @@
       "channelId": "bc-star-sports-hindi",
       "isLive": true,
       "isExplicitLive": true,
-      "badges": ["1080p 60FPS", "Hindi Audio", "Active Live Feed"]
+      "badges": [
+        "1080p 60FPS",
+        "Hindi Audio",
+        "Active Live Feed"
+      ]
     },
     {
       "id": "slide-biggboss-hindi",
@@ -36,7 +39,11 @@
       "bgGradient": "#200902",
       "imageUrl": "http://mena-img-cdn-lb.aws.playco.com/ev-indiacast-avod/AVODBIGBOSSY2006S20E001HI/AVODBIGBOSSY2006S20E001HI-hero-main-v2-en.jpg",
       "isTadka": true,
-      "badges": ["Salman Khan", "32 Episodes", "1080p Full HD"]
+      "badges": [
+        "Salman Khan",
+        "32 Episodes",
+        "1080p Full HD"
+      ]
     },
     {
       "id": "slide-biggboss-malayalam",
@@ -50,7 +57,11 @@
       "bgGradient": "#181404",
       "imageUrl": "https://mena-img-cdn-lb.aws.playco.com/ev-ingest-jiostar-avod/AVODBIGGBOSSMMLY2018S08E001ML/AVODBIGGBOSSMMLY2018S08E001ML-hero-v2-en.jpg",
       "isTadka": true,
-      "badges": ["Season 8", "Mohanlal", "99 Episodes"]
+      "badges": [
+        "Season 8",
+        "Mohanlal",
+        "99 Episodes"
+      ]
     },
     {
       "id": "slide-bloody-daddy",
@@ -64,7 +75,11 @@
       "bgGradient": "#1a0508",
       "imageUrl": "http://mena-img-cdn-lb.aws.playco.com/ev-ingest-jiostar-avod/BLOODYDADDYY2023MHI/BLOODYDADDYY2023MHI-hero-main-v2-en.jpg",
       "isTadka": true,
-      "badges": ["Shahid Kapoor", "Action Thriller", "Full Movie"]
+      "badges": [
+        "Shahid Kapoor",
+        "Action Thriller",
+        "Full Movie"
+      ]
     },
     {
       "id": "slide-tadka",
@@ -78,7 +93,11 @@
       "bgGradient": "#260a05",
       "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&auto=format&fit=crop&q=80",
       "isTadka": true,
-      "badges": ["2 Min/Episode", "Hindi Drama", "Binge Now"]
+      "badges": [
+        "2 Min/Episode",
+        "Hindi Drama",
+        "Binge Now"
+      ]
     },
     {
       "id": "slide-willow",
@@ -90,9 +109,13 @@
       "highlightText": "24x7 Live Cricket",
       "accentColor": "#10b981",
       "bgGradient": "#052014",
-      "imageUrl": "https://images.unsplash.com/photo-1531415074868-036b1c57e359?w=1200&auto=format&fit=crop&q=80",
+      "imageUrl": "https://raw.githubusercontent.com/adityarajsharma9870-boop/playmax-updates/main/assets/banners/banner_1792604027066.jpg",
       "channelId": "bc-willow-cricket",
-      "badges": ["Direct HLS", "English", "HD Crisp"]
+      "badges": [
+        "Direct HLS",
+        "English",
+        "HD Crisp"
+      ]
     }
   ]
 }
