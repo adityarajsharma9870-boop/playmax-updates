@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T17:39:59.625Z",
+  "lastUpdated": "2026-10-21T18:51:57.843Z",
   "brand": {
     "logoUrl": "",
     "brandName": "PLAYMAX",
@@ -17,7 +17,7 @@
       "highlightText": "IND vs WI Live Match Streaming Now",
       "accentColor": "#38bdf8",
       "bgGradient": "#0b172a",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/adityarajsharma9870-boop/playmax-updates/main/assets/banners/banner_1792608716303.jpg",
       "channelId": "bc-star-sports-hindi",
       "isLive": true,
       "isExplicitLive": true,
