@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T17:33:49.292Z",
+  "lastUpdated": "2026-10-21T17:39:59.625Z",
   "brand": {
     "logoUrl": "",
     "brandName": "PLAYMAX",
@@ -37,7 +37,7 @@
       "highlightText": "Stream All 32 Episodes in Tadka",
       "accentColor": "#f59e0b",
       "bgGradient": "#200902",
-      "imageUrl": "http://mena-img-cdn-lb.aws.playco.com/ev-indiacast-avod/AVODBIGBOSSY2006S20E001HI/AVODBIGBOSSY2006S20E001HI-hero-main-v2-en.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/adityarajsharma9870-boop/playmax-updates/main/assets/banners/banner_1792604397675.jpg",
       "isTadka": true,
       "badges": [
         "Salman Khan",
