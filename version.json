@@ -1,16 +1,16 @@
 {
-    "message":  "Naya update aa gaya hai! Purana version band ho chuka hai, buffer-free live streaming dekhne ke liye abhi update karein.",
-    "latestBuildNumber":  10,
-    "forceUpdate":  true,
-    "releaseNotes":  [
-                         "🚀 Sabhi live channels ultra-fast buffer free streaming",
-                         "🏏 Star Sports 1 \u0026 2 HD 24x7 lag-free updates",
-                         "🎬 Cinema aur MovieBox naya catalog added",
-                         "🛡️ 100% Security and stability improvements"
-                     ],
-    "latestVersion":  "1.3.0",
-    "releasedAt":  "2026-10-21",
-    "minSupportedVersion":  "1.3.0",
-    "apkUrl":  "https://github.com/adityarajsharma9870-boop/playmax-updates/releases/latest/download/PlayMax.apk",
-    "title":  "PlayMax ⚡ Naya Update Available (v1.3.0)"
+  "latestVersion": "1.3.0",
+  "latestBuildNumber": 10,
+  "minSupportedVersion": "1.3.0",
+  "forceUpdate": true,
+  "title": "PlayMax ⚡ Naya Update Available (v1.3.0)",
+  "message": "Naya update aa gaya hai! Purana version band ho chuka hai, buffer-free live streaming dekhne ke liye abhi update karein.",
+  "releaseNotes": [
+    "🚀 Sabhi live channels ultra-fast buffer free streaming",
+    "🏏 Star Sports 1 & 2 HD 24x7 lag-free updates",
+    "🎬 Cinema aur MovieBox naya catalog added",
+    "🛡️ 100% Security and stability improvements"
+  ],
+  "apkUrl": "https://github.com/adityarajsharma9870-boop/playmax-updates/releases/latest/download/PlayMax.apk",
+  "releasedAt": "2026-10-21"
 }
