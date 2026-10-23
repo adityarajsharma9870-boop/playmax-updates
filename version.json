@@ -1,15 +1,15 @@
 {
-  "latestVersion": "1.4.0",
-  "latestBuildNumber": 11,
-  "minSupportedVersion": "1.0.0",
-  "forceUpdate": false,
-  "title": "PlayMax ⚡ Official Safe Update (v1.4.0)",
-  "message": "Sabhi live sports aur 101 entertainment channels optimized hain. 100% Safe, zero grabber, verified clean.",
+  "latestVersion": "1.5.0",
+  "latestBuildNumber": 12,
+  "minSupportedVersion": "1.5.0",
+  "forceUpdate": true,
+  "title": "PlayMax ⚡ Naya Safe Update Available (v1.5.0)",
+  "message": "Naya 100% safe update aa gaya hai! Buffer-free live sports, 24/7 Big Boss & 101 entertainment channels dekhne ke liye abhi update karein.",
   "releaseNotes": [
-    "🛡️ 100% Safe, zero grabber, zero virus, zero data leak verified",
-    "🏏 Live Sports hub: Cricket, Tennis, Football, Volleyball with real-time badges",
-    "📺 Tadka section: 24/7 Big Boss, 101 live entertainment channels & upcoming cinema",
-    "⚡ Buffer-free Akamai HD feed with unmuted audio"
+    "🛡️ 100% Safe & Clean: Zero grabber, zero virus, zero data leak verified",
+    "🏏 Live Sports Hub: Cricket, Tennis, Football, Volleyball with real-time badges",
+    "📺 Tadka Hub: 24/7 Big Boss, 101 live entertainment channels & movies",
+    "⚡ Akamai Full HD Live Feeds: Instant connection with crystal clear audio"
   ],
   "apkUrl": "https://github.com/adityarajsharma9870-boop/playmax-updates/releases/latest/download/PlayMax.apk",
   "releasedAt": "2026-10-24"
