@@ -1,16 +1,16 @@
 {
   "latestVersion": "1.4.0",
-  "latestBuildNumber": 10,
-  "minSupportedVersion": "1.4.0",
-  "forceUpdate": true,
-  "title": "PlayMax ⚡ Naya Update Available (v1.3.0)",
-  "message": "Naya update aa gaya hai! Purana version band ho chuka hai, buffer-free live streaming dekhne ke liye abhi update karein.",
+  "latestBuildNumber": 11,
+  "minSupportedVersion": "1.0.0",
+  "forceUpdate": false,
+  "title": "PlayMax ⚡ Official Safe Update (v1.4.0)",
+  "message": "Sabhi live sports aur 101 entertainment channels optimized hain. 100% Safe, zero grabber, verified clean.",
   "releaseNotes": [
-    "🚀 Sabhi live channels ultra-fast buffer free streaming",
-    "🏏 Star Sports 1 & 2 HD 24x7 lag-free updates",
-    "🎬 Cinema aur MovieBox naya catalog added",
-    "🛡️ 100% Security and stability improvements"
+    "🛡️ 100% Safe, zero grabber, zero virus, zero data leak verified",
+    "🏏 Live Sports hub: Cricket, Tennis, Football, Volleyball with real-time badges",
+    "📺 Tadka section: 24/7 Big Boss, 101 live entertainment channels & upcoming cinema",
+    "⚡ Buffer-free Akamai HD feed with unmuted audio"
   ],
   "apkUrl": "https://github.com/adityarajsharma9870-boop/playmax-updates/releases/latest/download/PlayMax.apk",
-  "releasedAt": "2026-10-22"
+  "releasedAt": "2026-10-24"
 }
