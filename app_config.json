@@ -1,20 +1,60 @@
 {
-  "lastUpdated": "2026-10-21T19:26:08.434Z",
+  "lastUpdated": "2026-10-23T19:16:45.231Z",
   "brand": {
     "logoUrl": "",
     "brandName": "PLAYMAX",
     "badgeText": "PRO",
-    "announcement": "Welcome to PlayMax Live TV & OTT"
+    "announcement": "Welcome to PlayMax Live TV & Sports 24/7"
   },
   "banners": [
     {
-      "id": "slide-cricket",
-      "tag": "🏏 LIVE NOW ",
+      "id": "slide-biggboss-live",
+      "tag": "🔥 24/7 UNCUT REALITY",
+      "tagColor": "#facc15",
+      "title": "BIG BOSS 24/7 LIVE HINDI",
+      "subtitle": "Watch Big Boss 24/7 Live Uncut HD Feed",
+      "metaInfo": "LIVE • Reality 24/7 • Hindi • 1080p 60FPS",
+      "highlightText": "24/7 Big Boss Live Streaming Direct Feed",
+      "accentColor": "#f59e0b",
+      "bgGradient": "#200902",
+      "imageUrl": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg",
+      "channelId": "bigboss-24-7-live-hindi",
+      "isLive": true,
+      "isExplicitLive": true,
+      "badges": [
+        "24/7 Live",
+        "Salman Khan",
+        "1080p 60FPS"
+      ]
+    },
+    {
+      "id": "slide-sony-liv-nz",
+      "tag": "🏏 LIVE SPORTS",
+      "tagColor": "#0ea5e9",
+      "title": "IND vs NZ • LIVE MATCH",
+      "subtitle": "India vs New Zealand Live • Sony Sports Ten 3 Hindi",
+      "metaInfo": "LIVE • Sports • Hindi & English • 1080p 60FPS",
+      "highlightText": "Watch IND vs NZ Live Hindi Broadcast",
+      "accentColor": "#0284c7",
+      "bgGradient": "#04172e",
+      "imageUrl": "https://raw.githubusercontent.com/adityarajsharma9870-boop/playmax-updates/main/assets/banners/banner_1792610765592.jpg",
+      "channelId": "bc-ind-vs-nz-hindi",
+      "isLive": true,
+      "isExplicitLive": true,
+      "badges": [
+        "Sony Ten 3 HD",
+        "Direct Connect",
+        "1080p 60FPS"
+      ]
+    },
+    {
+      "id": "slide-cricket-star",
+      "tag": "🏏 STAR SPORTS LIVE",
       "tagColor": "#ef4444",
-      "title": "IND vs NZ",
-      "subtitle": "IND vs NZ 1nd T20I Live Match • Hindi Commentary",
+      "title": "STAR SPORTS 1 HINDI",
+      "subtitle": "24x7 Cricket Live Coverage • Hindi Commentary",
       "metaInfo": "LIVE • Sports • Hindi • Full HD",
-      "highlightText": "IND vs WI Live Match Streaming Now",
+      "highlightText": "Live Cricket Streaming 24/7",
       "accentColor": "#38bdf8",
       "bgGradient": "#0b172a",
       "imageUrl": "https://raw.githubusercontent.com/adityarajsharma9870-boop/playmax-updates/main/assets/banners/banner_1792610765592.jpg",
@@ -28,80 +68,26 @@
       ]
     },
     {
-      "id": "slide-biggboss-hindi",
-      "tag": "🔥 SALMAN KHAN LIVE",
-      "tagColor": "#facc15",
-      "title": "BIGG BOSS HINDI",
-      "subtitle": "Season 20 • Hosted by Salman Khan",
-      "metaInfo": "2026 • Reality TV • Hindi • 32 Episodes",
-      "highlightText": "Stream All 32 Episodes in Tadka",
-      "accentColor": "#f59e0b",
-      "bgGradient": "#200902",
-      "imageUrl": "https://raw.githubusercontent.com/adityarajsharma9870-boop/playmax-updates/main/assets/banners/banner_1792604397675.jpg",
-      "isTadka": true,
-      "badges": [
-        "Salman Khan",
-        "32 Episodes",
-        "1080p Full HD"
-      ]
-    },
-    {
-      "id": "slide-biggboss-malayalam",
-      "tag": "🌟 MOHANLAL SPECIAL",
-      "tagColor": "#f59e0b",
-      "title": "BIGG BOSS MALAYALAM",
-      "subtitle": "Season 8 • Hosted by Mohanlal",
-      "metaInfo": "2026 • Reality TV • Malayalam • 99 Episodes",
-      "highlightText": "Stream All 99 Episodes in Tadka",
-      "accentColor": "#f59e0b",
-      "bgGradient": "#181404",
-      "imageUrl": "https://mena-img-cdn-lb.aws.playco.com/ev-ingest-jiostar-avod/AVODBIGGBOSSMMLY2018S08E001ML/AVODBIGGBOSSMMLY2018S08E001ML-hero-v2-en.jpg",
-      "isTadka": true,
-      "badges": [
-        "Season 8",
-        "Mohanlal",
-        "99 Episodes"
-      ]
-    },
-    {
-      "id": "slide-bloody-daddy",
-      "tag": "🎬 JIO CINEMA HIT",
-      "tagColor": "#ef4444",
-      "title": "BLOODY DADDY",
-      "subtitle": "Shahid Kapoor • Jio Studios Blockbuster",
-      "metaInfo": "2024 • Action Thriller • Full Movie",
-      "highlightText": "Watch Full Movie in 1080p Ultra HD",
-      "accentColor": "#ef4444",
-      "bgGradient": "#1a0508",
-      "imageUrl": "https://raw.githubusercontent.com/adityarajsharma9870-boop/playmax-updates/main/assets/banners/banner_1792609035431.jpg",
-      "isTadka": true,
-      "badges": [
-        "Shahid Kapoor",
-        "Action Thriller",
-        "Full Movie"
-      ]
-    },
-    {
-      "id": "slide-tadka",
-      "tag": "⚡ 2-MINUTE MICROSHOWS",
+      "id": "slide-kantara",
+      "tag": "🍿 MEGA BLOCKBUSTER",
       "tagColor": "#ff4500",
-      "title": "PROXY WAR: THE BILLIONAIRE",
-      "subtitle": "52 Rapid Episodes • Revenge & Romance",
-      "metaInfo": "2026 • Hindi Drama",
-      "highlightText": "Watch All 52 Episodes Free",
+      "title": "KANTARA A LEGEND: CHAPTER 1",
+      "subtitle": "Rishab Shetty • Mythological Action Epic",
+      "metaInfo": "2026 • Action Drama • Full Movie",
+      "highlightText": "Watch in 4K HDR & 1080p Ultra HD",
       "accentColor": "#ff4500",
-      "bgGradient": "#260a05",
+      "bgGradient": "#1a0802",
       "imageUrl": "https://raw.githubusercontent.com/adityarajsharma9870-boop/playmax-updates/main/assets/banners/banner_1792609937670.jpg",
       "isTadka": true,
       "badges": [
-        "2 Min/Episode",
-        "Hindi Drama",
-        "Binge Now"
+        "4K Ultra HD",
+        "Hindi Audio",
+        "Blockbuster"
       ]
     },
     {
       "id": "slide-willow",
-      "tag": "🏆 24/7 BORDERLESS CRICKET",
+      "tag": "🏆 24/7 CRICKET",
       "tagColor": "#10b981",
       "title": "WILLOW CRICKET HD",
       "subtitle": "ICC Tournaments, Ashes & BBL Live Action",
