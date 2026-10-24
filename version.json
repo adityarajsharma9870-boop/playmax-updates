@@ -1,8 +1,8 @@
 {
   "latestVersion": "1.5.2",
-  "latestBuildNumber": 14,
-  "minSupportedVersion": "1.5.2",
-  "forceUpdate": true,
+  "latestBuildNumber": 13,
+  "minSupportedVersion": "1.5.0",
+  "forceUpdate": false,
   "title": "PlayMax ⚡ Naya Mega Sports & Sony LIV Update Available (v1.5.2)",
   "message": "Sony LIV Live & Upcoming Sports, 10s Double-Tap Fast Skip, 1-Tap Fullscreen aur Buffer-Free streaming aa chuka hai! Abhi update karein.",
   "releaseNotes": [
