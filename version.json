@@ -1,14 +1,16 @@
 {
-  "latestVersion": "1.5.1",
-  "latestBuildNumber": 1,
-  "minSupportedVersion": "1.0.0",
-  "forceUpdate": false,
-  "title": "PlayMax",
-  "message": "PlayMax is fully up to date with live cloud streaming.",
+  "latestVersion": "1.5.2",
+  "latestBuildNumber": 14,
+  "minSupportedVersion": "1.5.2",
+  "forceUpdate": true,
+  "title": "PlayMax ⚡ Naya Mega Sports & Sony LIV Update Available (v1.5.2)",
+  "message": "Sony LIV Live & Upcoming Sports, 10s Double-Tap Fast Skip, 1-Tap Fullscreen aur Buffer-Free streaming aa chuka hai! Abhi update karein.",
   "releaseNotes": [
-    "⚡ Sony LIV Live & Upcoming online sync active",
-    "🚀 Buffer-free stream routes live",
-    "🛡️ 100% Safe & Clean streaming"
+    "🏏 Sony LIV Live Events & Upcoming Tournaments Auto-Sync (ENG/HIN/TAM/TEL/KAN)",
+    "⏩ 10s Double-Tap Fast Skip Gestures (Left/Right player zones)",
+    "⛶ Dedicated 1-Tap Fullscreen & 16:9 / Zoom Aspect Ratio Toggle",
+    "🚀 Zero-Lag Cricket Streaming: Star Sports & All Sports stutter resolved",
+    "🛡️ 100% Secure, Clean & Verified Official Upgrade"
   ],
   "apkUrl": "https://github.com/adityarajsharma9870-boop/playmax-updates/releases/latest/download/PlayMax.apk",
   "releasedAt": "2026-10-24"
