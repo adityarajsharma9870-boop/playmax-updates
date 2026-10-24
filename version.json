@@ -1,15 +1,17 @@
 {
-  "latestVersion": "1.5.0",
-  "latestBuildNumber": 12,
-  "minSupportedVersion": "1.5.0",
+  "latestVersion": "1.5.1",
+  "latestBuildNumber": 13,
+  "minSupportedVersion": "1.5.1",
   "forceUpdate": true,
-  "title": "PlayMax ⚡ Naya Safe Update Available (v1.5.0)",
-  "message": "Naya 100% safe update aa gaya hai! Buffer-free live sports, 24/7 Big Boss & 101 entertainment channels dekhne ke liye abhi update karein.",
+  "title": "PlayMax ⚡ High-Speed Mobile Update Available (v1.5.1)",
+  "message": "Naya lag-free update aa gaya hai! Cricket channels stutter fix, 1-tap Fullscreen & Aspect Ratio controls, aur super smooth fast UI ke liye abhi update karein.",
   "releaseNotes": [
-    "🛡️ 100% Safe & Clean: Zero grabber, zero virus, zero data leak verified",
-    "🏏 Live Sports Hub: Cricket, Tennis, Football, Volleyball with real-time badges",
-    "📺 Tadka Hub: 24/7 Big Boss, 101 live entertainment channels & movies",
-    "⚡ Akamai Full HD Live Feeds: Instant connection with crystal clear audio"
+    "🚀 Zero-Lag Playback: Cricket channels below Star Sports now play 100% smooth without stutter",
+    "⤢ Aspect Ratio Toggle: New diagonal button to switch 16:9 Fit, Cover Zoom, and Stretch modes",
+    "⛶ Dedicated Fullscreen: Instant 1-tap landscape fullscreen mode",
+    "❚❚ Center Controls: Sleek circular Play/Pause button matching OTT reference UI",
+    "⚡ App-wide Performance: Eliminated list lag, timer stalls, and memory overhead",
+    "🛡️ 100% Safe & Clean: Zero virus, zero grabber, fully hardened build"
   ],
   "apkUrl": "https://github.com/adityarajsharma9870-boop/playmax-updates/releases/latest/download/PlayMax.apk",
   "releasedAt": "2026-10-24"
