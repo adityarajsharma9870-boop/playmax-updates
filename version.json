@@ -1,17 +1,14 @@
 {
   "latestVersion": "1.5.1",
-  "latestBuildNumber": 13,
-  "minSupportedVersion": "1.5.1",
-  "forceUpdate": true,
-  "title": "PlayMax ⚡ High-Speed Mobile Update Available (v1.5.1)",
-  "message": "Naya lag-free update aa gaya hai! Cricket channels stutter fix, 1-tap Fullscreen & Aspect Ratio controls, aur super smooth fast UI ke liye abhi update karein.",
+  "latestBuildNumber": 1,
+  "minSupportedVersion": "1.0.0",
+  "forceUpdate": false,
+  "title": "PlayMax",
+  "message": "PlayMax is fully up to date with live cloud streaming.",
   "releaseNotes": [
-    "🚀 Zero-Lag Playback: Cricket channels below Star Sports now play 100% smooth without stutter",
-    "⤢ Aspect Ratio Toggle: New diagonal button to switch 16:9 Fit, Cover Zoom, and Stretch modes",
-    "⛶ Dedicated Fullscreen: Instant 1-tap landscape fullscreen mode",
-    "❚❚ Center Controls: Sleek circular Play/Pause button matching OTT reference UI",
-    "⚡ App-wide Performance: Eliminated list lag, timer stalls, and memory overhead",
-    "🛡️ 100% Safe & Clean: Zero virus, zero grabber, fully hardened build"
+    "⚡ Sony LIV Live & Upcoming online sync active",
+    "🚀 Buffer-free stream routes live",
+    "🛡️ 100% Safe & Clean streaming"
   ],
   "apkUrl": "https://github.com/adityarajsharma9870-boop/playmax-updates/releases/latest/download/PlayMax.apk",
   "releasedAt": "2026-10-24"
