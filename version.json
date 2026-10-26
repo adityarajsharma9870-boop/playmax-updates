@@ -1,17 +1,17 @@
 {
-  "latestVersion": "1.5.2",
-  "latestBuildNumber": 13,
+  "latestVersion": "1.5.3",
+  "latestBuildNumber": 15,
   "minSupportedVersion": "1.5.0",
-  "forceUpdate": false,
-  "title": "PlayMax ⚡ Naya Mega Sports & Sony LIV Update Available (v1.5.2)",
-  "message": "Sony LIV Live & Upcoming Sports, 10s Double-Tap Fast Skip, 1-Tap Fullscreen aur Buffer-Free streaming aa chuka hai! Abhi update karein.",
+  "forceUpdate": true,
+  "title": "PlayMax ⚡ Naya Auto-Play & Anti-Stall Update (v1.5.3)",
+  "message": "Auto-pause problem 100% solve ho chuki hai! Star Sports aur sabhi channels bina ruke instant auto-play honge. Aage dekhne ke liye app update karein.",
   "releaseNotes": [
-    "🏏 Sony LIV Live Events & Upcoming Tournaments Auto-Sync (ENG/HIN/TAM/TEL/KAN)",
-    "⏩ 10s Double-Tap Fast Skip Gestures (Left/Right player zones)",
-    "⛶ Dedicated 1-Tap Fullscreen & 16:9 / Zoom Aspect Ratio Toggle",
-    "🚀 Zero-Lag Cricket Streaming: Star Sports & All Sports stutter resolved",
-    "🛡️ 100% Secure, Clean & Verified Official Upgrade"
+    "⚡ Instant Auto-Play: Channel open karte hi turant video chalu",
+    "🛡️ Zero Auto-Pause: Network buffer ya stutter aane par video freeze/pause nahi hogi, turant auto-resume hogi",
+    "⏩ Controls Auto-Hide: Screen par pause button ka bug fix ho chuka hai",
+    "🏏 Star Sports 1 Hindi & all sports ultra-smooth feed",
+    "🔒 100% Secure & official PlayMax APK upgrade"
   ],
   "apkUrl": "https://github.com/adityarajsharma9870-boop/playmax-updates/releases/latest/download/PlayMax.apk",
-  "releasedAt": "2026-10-24"
+  "releasedAt": "2026-10-26"
 }
