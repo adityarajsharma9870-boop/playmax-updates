@@ -1,17 +1,16 @@
 {
-  "latestVersion": "1.5.3",
-  "latestBuildNumber": 15,
+  "latestVersion": "1.5.4",
+  "latestBuildNumber": 16,
   "minSupportedVersion": "1.5.0",
   "forceUpdate": true,
-  "title": "PlayMax ⚡ Naya Auto-Play & Anti-Stall Update (v1.5.3)",
-  "message": "Auto-pause problem 100% solve ho chuki hai! Star Sports aur sabhi channels bina ruke instant auto-play honge. Aage dekhne ke liye app update karein.",
+  "title": "PlayMax ⚡ Naya Live Streaming & Server Fix (v1.5.4)",
+  "message": "Star Sports 1 Hindi HD aur sabhi live sports channels ke server connection error 100% solve ho chuke hain! Instant buffer-free playback ke liye app update karein.",
   "releaseNotes": [
-    "⚡ Instant Auto-Play: Channel open karte hi turant video chalu",
-    "🛡️ Zero Auto-Pause: Network buffer ya stutter aane par video freeze/pause nahi hogi, turant auto-resume hogi",
-    "⏩ Controls Auto-Hide: Screen par pause button ka bug fix ho chuka hai",
-    "🏏 Star Sports 1 Hindi & all sports ultra-smooth feed",
-    "🔒 100% Secure & official PlayMax APK upgrade"
+    "🚀 Sabhi Live Channels 100% Fixed: Star Sports 1 Hindi HD, Star Sports 2, Willow Cricket sabhi chalu",
+    "⚡ Zero Loading Freeze: 'Connecting Live HD Feed' par atakne wala issue completely resolve",
+    "🏏 Direct High-Speed TS Streaming Engine activated",
+    "🛡️ 100% Free & Safe Official Upgrade"
   ],
-  "apkUrl": "https://github.com/adityarajsharma9870-boop/playmax-updates/releases/latest/download/PlayMax.apk",
+  "apkUrl": "https://github.com/adityarajsharma9870-boop/playmax-updates/releases/download/v1.5.4/PlayMax.apk",
   "releasedAt": "2026-10-26"
 }
