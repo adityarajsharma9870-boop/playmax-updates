@@ -1,16 +1,17 @@
 {
-  "latestVersion": "1.5.4",
-  "latestBuildNumber": 16,
+  "latestVersion": "1.5.5",
+  "latestBuildNumber": 17,
   "minSupportedVersion": "1.5.0",
-  "forceUpdate": true,
-  "title": "PlayMax ⚡ Naya Live Streaming & Server Fix (v1.5.4)",
-  "message": "Star Sports 1 Hindi HD aur sabhi live sports channels ke server connection error 100% solve ho chuke hain! Instant buffer-free playback ke liye app update karein.",
+  "title": "PlayMax ⚡ Naya Update Available (v1.5.5)",
+  "message": "JioHotstar ka pura 126+ content ab Tadka me live chal raha hai! Bigg Boss 24/7, Star Plus, Colors aur reality feeds buffer-free dekhne ke liye abhi update karein.",
   "releaseNotes": [
-    "🚀 Sabhi Live Channels 100% Fixed: Star Sports 1 Hindi HD, Star Sports 2, Willow Cricket sabhi chalu",
-    "⚡ Zero Loading Freeze: 'Connecting Live HD Feed' par atakne wala issue completely resolve",
-    "🏏 Direct High-Speed TS Streaming Engine activated",
-    "🛡️ 100% Free & Safe Official Upgrade"
+    "🔥 JioHotstar 126+ 24/7 live channels Tadka me active",
+    "🔴 Bigg Boss 24/7 Live Hindi, Bangla, Kannada, Telugu, Tamil & Malayalam",
+    "📺 Star Plus Digital, Colors HD, Star Bharat, Star Jalsha, Star Pravah direct play",
+    "⚡ ClearKey DRM Shaka auto-decryption with dynamic live cookies",
+    "🛡️ 100% Buffer-Free fast streaming upgrade"
   ],
-  "apkUrl": "https://github.com/adityarajsharma9870-boop/playmax-updates/releases/download/v1.5.4/PlayMax.apk",
-  "releasedAt": "2026-10-26"
+  "apkUrl": "https://github.com/adityarajsharma9870-boop/playmax-updates/releases/download/v1.5.5/PlayMax.apk",
+  "releasedAt": "2026-10-26",
+  "forceUpdate": true
 }
